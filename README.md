@@ -21,6 +21,8 @@
 
 ---
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6f0828be0d4e48e48a846355c464597a)](https://app.codacy.com/manual/gustavosandesilva/fastapi?utm_source=github.com&utm_medium=referral&utm_content=Gustavosande/fastapi&utm_campaign=Badge_Grade_Dashboard)
+
 **Documentation**: <a href="https://fastapi.tiangolo.com" target="_blank">https://fastapi.tiangolo.com</a>
 
 **Source Code**: <a href="https://github.com/tiangolo/fastapi" target="_blank">https://github.com/tiangolo/fastapi</a>
